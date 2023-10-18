@@ -1,0 +1,44 @@
+body{
+    background-image:url(https://cdn.britannica.com/35/222035-050-C68AD682/makeup-cosmetics.jpg?w=600&q=60);;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.container {
+    background-color: antiquewhite;
+    padding: 50px;
+    margin: 40px ;
+    text-align: center;
+}
+h1 {
+    background-color:palevioletred ;
+}
+h2 {
+    background-color: azure;
+    color: black;
+
+}
+
+#content1 {
+    background-color: aqua;
+    padding: 50px;
+    margin: 40px;
+    text-align: center; font-size: 120%;
+}
+
+#content2 {
+    background-color: plum;
+    padding: 50px;
+    margin: 40px;
+    text-align: center; font-size: 120%;
+}
+
+#content3 {
+    background-color: burlywood;
+    padding: 50px;
+    margin: 40px;
+    text-align: center; font-size: 120%;
+}
+
+    
